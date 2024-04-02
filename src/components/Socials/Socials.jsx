@@ -12,7 +12,7 @@ export const Socials = () => {
             target="_blank"
             rel="noreferrer noopener"
           >
-            <Icon className={css.socialsIcon} />
+            <Icon className={css.socialsIcon} size={'30px'} />
           </a>
         </li>
       ))}

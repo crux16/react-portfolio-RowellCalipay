@@ -8,12 +8,12 @@ export const aboutList1 = [
   {
     id: 1,
     description: 'Email',
-    value: 'rcalipay@email.com',
+    value: 'rcalipay@gmail.com',
   },
   {
     id: 2,
     description: 'Phone',
-    value: '+639562263247',
+    value: '(+63) 956 2263 247',
   },
   {
     id: 3,
