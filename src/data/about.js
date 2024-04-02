@@ -8,17 +8,17 @@ export const aboutList1 = [
   {
     id: 1,
     description: 'Email',
-    value: 'juandelacruz@email.com',
+    value: 'rcalipay@email.com',
   },
   {
     id: 2,
     description: 'Phone',
-    value: '+639123456789',
+    value: '+639562263247',
   },
   {
     id: 3,
     description: 'City',
-    value: 'Baguio City',
+    value: 'Danao City',
   },
 ];
 
@@ -31,7 +31,7 @@ export const aboutList2 = [
   {
     id: 2,
     description: 'Hobbies',
-    value: 'Basketball, Computer Games, Hiking',
+    value: 'Watching movies, Computer/Mobile Games, Reading Mangas',
   },
   {
     id: 3,
@@ -43,20 +43,20 @@ export const aboutList2 = [
 export const aboutList3 = [
   {
     id: 1,
-    school: 'Hogwarts University',
-    year: '2006',
+    school: 'Lawaan Danao City Cebu',
+    year: '2004',
     course: 'Elementary',
   },
   {
     id: 2,
-    school: 'Hogwarts University',
-    year: '2012',
+    school: 'Cebu Academy, Carmen Cebu',
+    year: '2008',
     course: 'Senior High School',
   },
   {
     id: 3,
-    school: 'Hogwarts University',
-    year: '2016',
+    school: 'Northeastern Cebu College - Danao',
+    year: '2015',
     course: 'Bachelor of Science in Computer Science',
   },
 ];

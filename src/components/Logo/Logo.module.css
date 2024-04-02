@@ -17,3 +17,7 @@
   color: var(--PRIMARY);
   font-weight: 700;
 }
+
+.logo {
+  text-decoration: var(--PRIMARY) line-through;
+}
