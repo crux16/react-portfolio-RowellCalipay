@@ -8,6 +8,8 @@ import project6 from '../images/project-6.png';
 import project7 from '../images/project-7.png';
 import project8 from '../images/project-8.png';
 import project9 from '../images/project-9.png';
+import project10 from '../images/project-8.png';
+import project11 from '../images/project-9.png';
 
 export const projects = [
   {
@@ -31,7 +33,7 @@ export const projects = [
   {
     id: 4,
     src: project4,
-    name: 'Color Switcher',
+    name: 'Count Down Timer',
     href: 'https://crux16.github.io/goit-js-hw-09',
   },
   {
@@ -63,5 +65,17 @@ export const projects = [
     src: project9,
     name: 'Phonebook',
     href: 'https://crux16.github.io/goit-react-hw-08-phonebook/',
+  },
+  {
+    id: 10,
+    src: project10,
+    name: 'Fresh Harvest',
+    href: 'https://crux16.github.io/goit-project-team/',
+  },
+  {
+    id: 11,
+    src: project11,
+    name: 'Filmoteka Prject',
+    href: 'https://jandiman.github.io/goit-js-team-4-project/',
   },
 ];

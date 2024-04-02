@@ -7,11 +7,15 @@
   row-gap: 20px;
 
   @media (min-width: 768px) {
+    justify-content: flex-start;
+    padding: 0 80px;
     column-gap: 40px;
     row-gap: 20px;
   }
 
-  @media (min-width: 1024px) {
+  @media (min-width: 90 0px) {
+    padding: 0;
+    justify-content: center;
     column-gap: 60px;
     row-gap: 40px;
   }
