@@ -1,15 +1,15 @@
 // import project pictures here
-import project1 from '../images/project-1.png';
-import project2 from '../images/project-2.png';
-import project3 from '../images/project-3.png';
-import project4 from '../images/project-4.png';
-import project5 from '../images/project-5.png';
-import project6 from '../images/project-6.png';
-import project7 from '../images/project-7.png';
-import project8 from '../images/project-8.png';
-import project9 from '../images/project-9.png';
-import project10 from '../images/project-8.png';
-import project11 from '../images/project-9.png';
+import project1 from '../images/webstudio.jpg';
+import project2 from '../images/image-gallery.jpg';
+import project3 from '../images/color-switcher.jpg';
+import project4 from '../images/countdown-timer.jpg';
+import project5 from '../images/cat-search.jpg';
+import project6 from '../images/image-search.jpg';
+import project7 from '../images/image-finder.jpg';
+import project8 from '../images/movie-search.jpg';
+import project9 from '../images/phonebook.jpg';
+import project10 from '../images/fresh-harverstbox.jpg';
+import project11 from '../images/filmoteka.jpg';
 
 export const projects = [
   {
@@ -75,7 +75,7 @@ export const projects = [
   {
     id: 11,
     src: project11,
-    name: 'Filmoteka Prject',
+    name: 'Filmoteka Project',
     href: 'https://jandiman.github.io/goit-js-team-4-project/',
   },
 ];
