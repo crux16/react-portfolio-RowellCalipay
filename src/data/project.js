@@ -10,6 +10,7 @@ import project8 from '../images/movie-search.jpg';
 import project9 from '../images/phonebook.jpg';
 import project10 from '../images/fresh-harverstbox.jpg';
 import project11 from '../images/filmoteka.jpg';
+import project12 from '../images/slim-mom.jpg';
 
 export const projects = [
   {
@@ -77,5 +78,11 @@ export const projects = [
     src: project11,
     name: 'Filmoteka Project',
     href: 'https://jandiman.github.io/goit-js-team-4-project/',
+  },
+  {
+    id: 12,
+    src: project12,
+    name: 'Slim Mom Apps',
+    href: 'https://crux16.github.io/slim-mom-frontend-team-project/',
   },
 ];

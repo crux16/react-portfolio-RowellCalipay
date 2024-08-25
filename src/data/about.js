@@ -51,13 +51,13 @@ export const aboutList3 = [
     id: 2,
     school: 'Cebu Academy, Carmen Cebu',
     year: '2008',
-    course: 'Senior High School',
+    course: 'High School',
   },
   {
     id: 3,
     school: 'Northeastern Cebu College - Danao',
     year: '2015',
-    course: 'Bachelor of Science in Computer Science',
+    course: 'Bachelor of Science in Information Technology',
   },
 ];
 export const aboutList4 = [
